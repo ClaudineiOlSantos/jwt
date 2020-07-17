@@ -20,7 +20,6 @@ import org.json.JSONObject;
  * Esta classe depende do pacote org.json
  * 
  * @author Claudinei
- * @email claudineioliveirasa@live.com
  */
 public class JWebToken {
 
